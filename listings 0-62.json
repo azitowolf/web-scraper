@@ -1,0 +1,2292 @@
+[
+    {
+        "id": 0,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 1,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 2,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 3,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 4,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 5,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 6,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 7,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 7,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 8,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 9,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 10,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 11,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 12,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 13,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 14,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 15,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 16,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 17,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 17,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 18,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 19,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 20,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 21,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 21,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 22,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/a778f1b5-610b-4a96-9c3e-5d22ad1d1b65.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/a778f1b5-610b-4a96-9c3e-5d22ad1d1b65.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/0756e64a-06de-414d-80ed-4b95d094bab8.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/3f86f3a2-cbb8-4fef-bc78-932c2f327bc6.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/80dcac28-4589-43f2-8643-a1d2502959a9.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/896ba048-c283-4b81-b981-1f0b24683bda.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/fc5618e6-fd93-4d1b-9f99-2c3913f40048.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/96713b46-dfaf-44be-b928-22cd34b094cb.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/bd8371f7-1f3d-41f7-b393-c299660dec63.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/9d4c6a71-4af9-4d3a-a864-e8df61802602.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/060714fd-e4c3-459e-8013-54e081ec9614.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/c5db6035-a36f-4eb2-a491-42c09f0a878f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/d95b668b-7a44-4566-97c6-3ab8bf8edf75.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/ff50729e-5a3f-40dc-9b9a-f15aca02ced2.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/9f6ea8e7-8137-4a05-a758-5aa7de1ffd18.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/71a3430a-e577-4647-b053-e88cab9eb0b4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/3bb14274-1675-4d2a-90b1-7dd74581bdcd.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/a2ca5185-43da-4d84-abc9-9c7529f6f8de.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/dbbc7499-b8f1-40c9-86a6-4b5c79d11400.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/a778f1b5-610b-4a96-9c3e-5d22ad1d1b65.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/0756e64a-06de-414d-80ed-4b95d094bab8.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/3f86f3a2-cbb8-4fef-bc78-932c2f327bc6.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/80dcac28-4589-43f2-8643-a1d2502959a9.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/896ba048-c283-4b81-b981-1f0b24683bda.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/fc5618e6-fd93-4d1b-9f99-2c3913f40048.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/96713b46-dfaf-44be-b928-22cd34b094cb.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/bd8371f7-1f3d-41f7-b393-c299660dec63.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/9d4c6a71-4af9-4d3a-a864-e8df61802602.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/060714fd-e4c3-459e-8013-54e081ec9614.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/c5db6035-a36f-4eb2-a491-42c09f0a878f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/d95b668b-7a44-4566-97c6-3ab8bf8edf75.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/ff50729e-5a3f-40dc-9b9a-f15aca02ced2.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/9f6ea8e7-8137-4a05-a758-5aa7de1ffd18.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/71a3430a-e577-4647-b053-e88cab9eb0b4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/3bb14274-1675-4d2a-90b1-7dd74581bdcd.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/a2ca5185-43da-4d84-abc9-9c7529f6f8de.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/dbbc7499-b8f1-40c9-86a6-4b5c79d11400.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/a778f1b5-610b-4a96-9c3e-5d22ad1d1b65.jpg"
+        ],
+        "rent": "48000元 / 月",
+        "agent": {
+            "name": "王先生",
+            "phone": "13764487700",
+            "type": "landlord"
+        },
+        "address": "愚园路608弄121号乙",
+        "district": "徐汇-法租界",
+        "city": "上海市",
+        "sqm": "300平米",
+        "beds": "0",
+        "baths": "0",
+        "description": "<p>愚园路608弄121号乙，整栋新里、6房2厅5卫、建筑面积300平，带40平米独用花园，有墙暖配浴缸，报价48000可议价，佣金一个月。看房联系王先生：13764487700</p>",
+        "dateAdded": {
+            "day": 1,
+            "month": 1,
+            "year": 2015
+        },
+        "compound": "",
+        "floor": "第层",
+        "buildingType": "新式里弄"
+    },
+    {
+        "id": 23,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 24,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/dd4c587b-a9c5-4146-b6ce-7f2b6440b1ae.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/5d1d13b0-c215-4e0d-87b8-a6cfcf85bc7f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/c0585d5d-5ab3-406b-8180-fb211f0b2423.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/41491efa-6cca-4a50-b787-96ee6c4fec5f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/b33dae5f-e0e2-4c3d-aa88-3285df527740.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/257ea454-e01a-4277-9c99-0630032405d4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/711e3760-a121-4bae-85d8-859895ec7aee.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/63dc34a3-55ef-414a-88ca-7fca5236ce0c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/5d0d7395-c214-4a5c-bc85-b2042a9dbd0c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/dd4c587b-a9c5-4146-b6ce-7f2b6440b1ae.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/5d1d13b0-c215-4e0d-87b8-a6cfcf85bc7f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/c0585d5d-5ab3-406b-8180-fb211f0b2423.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/41491efa-6cca-4a50-b787-96ee6c4fec5f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/b33dae5f-e0e2-4c3d-aa88-3285df527740.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/257ea454-e01a-4277-9c99-0630032405d4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/711e3760-a121-4bae-85d8-859895ec7aee.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/63dc34a3-55ef-414a-88ca-7fca5236ce0c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/5d0d7395-c214-4a5c-bc85-b2042a9dbd0c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/dd4c587b-a9c5-4146-b6ce-7f2b6440b1ae.jpg"
+        ],
+        "rent": "10800元 / 月",
+        "agent": {
+            "name": "Joe",
+            "phone": "18217298526",
+            "type": "landlord"
+        },
+        "address": "乌鲁木齐北路100弄3栋301",
+        "district": "静安",
+        "city": "上海市",
+        "sqm": "65平米",
+        "beds": "1",
+        "baths": "1",
+        "description": "乌鲁木齐北路100弄3#301，近愚园路，65平方，一房一厅一卫，全屋墙暖，净水，价格10800全包全佣，看房联系，Joe：18217298526",
+        "dateAdded": {
+            "day": 1,
+            "month": 1,
+            "year": 2015
+        },
+        "compound": "",
+        "floor": "第3层",
+        "buildingType": "新式里弄"
+    },
+    {
+        "id": 24,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/dd4c587b-a9c5-4146-b6ce-7f2b6440b1ae.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/dd4c587b-a9c5-4146-b6ce-7f2b6440b1ae.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/5d1d13b0-c215-4e0d-87b8-a6cfcf85bc7f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/c0585d5d-5ab3-406b-8180-fb211f0b2423.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/41491efa-6cca-4a50-b787-96ee6c4fec5f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/b33dae5f-e0e2-4c3d-aa88-3285df527740.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/257ea454-e01a-4277-9c99-0630032405d4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/711e3760-a121-4bae-85d8-859895ec7aee.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/63dc34a3-55ef-414a-88ca-7fca5236ce0c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/5d0d7395-c214-4a5c-bc85-b2042a9dbd0c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/dd4c587b-a9c5-4146-b6ce-7f2b6440b1ae.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/5d1d13b0-c215-4e0d-87b8-a6cfcf85bc7f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/c0585d5d-5ab3-406b-8180-fb211f0b2423.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/41491efa-6cca-4a50-b787-96ee6c4fec5f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/b33dae5f-e0e2-4c3d-aa88-3285df527740.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/257ea454-e01a-4277-9c99-0630032405d4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/711e3760-a121-4bae-85d8-859895ec7aee.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/63dc34a3-55ef-414a-88ca-7fca5236ce0c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/5d0d7395-c214-4a5c-bc85-b2042a9dbd0c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-27/dd4c587b-a9c5-4146-b6ce-7f2b6440b1ae.jpg"
+        ],
+        "rent": "10800元 / 月",
+        "agent": {
+            "name": "Joe",
+            "phone": "18217298526",
+            "type": "landlord"
+        },
+        "address": "乌鲁木齐北路100弄3栋301",
+        "district": "静安",
+        "city": "上海市",
+        "sqm": "65平米",
+        "beds": "1",
+        "baths": "1",
+        "description": "乌鲁木齐北路100弄3#301，近愚园路，65平方，一房一厅一卫，全屋墙暖，净水，价格10800全包全佣，看房联系，Joe：18217298526",
+        "dateAdded": {
+            "day": 1,
+            "month": 1,
+            "year": 2015
+        },
+        "compound": "",
+        "floor": "第3层",
+        "buildingType": "新式里弄"
+    },
+    {
+        "id": 25,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 26,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/75007219-4354-4e7d-8c92-ec14abace47e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/75007219-4354-4e7d-8c92-ec14abace47e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/7eae66f5-90ff-42d5-9ba8-0f54c85d292f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/bd52f472-792e-42f8-b162-6e2cc0bab778.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/784c156e-38c9-48a4-84f8-cd4277015716.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/01c4d450-5055-4815-a542-97bf261fcf8f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/8fcdd5f6-abac-4383-8adf-7370b710ccca.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/12a74c87-edd7-4f71-ab56-ecd3bee71639.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/106e9294-9c76-4f02-8251-24cd0f7a3388.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/b353cf28-a763-434f-9cbb-2f53cde9c903.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/52d34fcc-c09b-4cac-8f6d-969551fd15aa.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/a987f45a-bbd9-4731-8fe9-336c1674096a.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/6ac17699-d89d-417c-b45d-e0544817da77.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/3b5ae33a-5818-4ae0-95fd-a6024a9f44cc.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/65611422-325b-4114-99ee-210621073a54.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/f1cc0b82-b8ee-4d34-9cb7-3be4febf011f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/75007219-4354-4e7d-8c92-ec14abace47e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/7eae66f5-90ff-42d5-9ba8-0f54c85d292f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/bd52f472-792e-42f8-b162-6e2cc0bab778.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/784c156e-38c9-48a4-84f8-cd4277015716.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/01c4d450-5055-4815-a542-97bf261fcf8f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/8fcdd5f6-abac-4383-8adf-7370b710ccca.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/12a74c87-edd7-4f71-ab56-ecd3bee71639.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/106e9294-9c76-4f02-8251-24cd0f7a3388.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/b353cf28-a763-434f-9cbb-2f53cde9c903.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/52d34fcc-c09b-4cac-8f6d-969551fd15aa.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/a987f45a-bbd9-4731-8fe9-336c1674096a.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/6ac17699-d89d-417c-b45d-e0544817da77.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/3b5ae33a-5818-4ae0-95fd-a6024a9f44cc.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/65611422-325b-4114-99ee-210621073a54.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/f1cc0b82-b8ee-4d34-9cb7-3be4febf011f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-11-18/75007219-4354-4e7d-8c92-ec14abace47e.jpg"
+        ],
+        "rent": "25000元 / 月",
+        "agent": {
+            "name": "韩先生 ",
+            "phone": "18721693217",
+            "type": "landlord"
+        },
+        "address": "建国西路140号140",
+        "district": "徐汇-法租界",
+        "city": "上海市",
+        "sqm": "150平米",
+        "beds": "2",
+        "baths": "2",
+        "description": "<p>建国西路140号新里 （近陕西南路） 2楼套房+3楼整层137.6平， 2房2厅2卫，中央空调，墙暖，高层高大尖顶，2.4万/月，全佣，看房联系韩先生 18721693217<br><br></p>",
+        "dateAdded": {
+            "day": 1,
+            "month": 1,
+            "year": 2015
+        },
+        "compound": "",
+        "floor": "第2层",
+        "buildingType": "新式里弄"
+    },
+    {
+        "id": 27,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 28,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 29,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 30,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 31,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 32,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/96bb1ab4-a490-408c-8a9d-d154d6ebbfc0.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/96bb1ab4-a490-408c-8a9d-d154d6ebbfc0.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/4f8953eb-8ead-4c90-8299-415346d893be.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/b1bf3c3a-d4cb-4854-b5b8-36f212362741.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/4fc71944-aa1a-4448-88c9-4109d578614b.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/4531a48b-e434-4fad-a62f-22cb1843892e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/a8c989eb-1600-4e09-af83-c04216064381.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/77395b4c-6aef-4256-831d-66dcd595960f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/b3f8c26c-f361-42b6-9593-78adaf81dae6.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/f39e6918-07b5-4e1b-ab80-27d6ec7fa768.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/c90adf50-85e5-42b9-90e8-60f219fd381c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/92662596-2db6-49de-86c2-0eea2c963b76.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/96bb1ab4-a490-408c-8a9d-d154d6ebbfc0.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/4f8953eb-8ead-4c90-8299-415346d893be.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/b1bf3c3a-d4cb-4854-b5b8-36f212362741.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/4fc71944-aa1a-4448-88c9-4109d578614b.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/4531a48b-e434-4fad-a62f-22cb1843892e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/a8c989eb-1600-4e09-af83-c04216064381.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/77395b4c-6aef-4256-831d-66dcd595960f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/b3f8c26c-f361-42b6-9593-78adaf81dae6.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/f39e6918-07b5-4e1b-ab80-27d6ec7fa768.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/c90adf50-85e5-42b9-90e8-60f219fd381c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/92662596-2db6-49de-86c2-0eea2c963b76.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-22/96bb1ab4-a490-408c-8a9d-d154d6ebbfc0.jpg"
+        ],
+        "rent": "15000元 / 月",
+        "agent": {
+            "name": "",
+            "phone": "13044138637",
+            "type": "landlord"
+        },
+        "address": "天平路288弄28号整栋",
+        "district": "徐汇-法租界",
+        "city": "上海市",
+        "sqm": "80平米",
+        "beds": "2",
+        "baths": "1",
+        "description": "<p>天平路288弄28号整栋，80平方2房一厅一卫，带10平凡露台，配有墙暖，价格15000元全包，全佣，房东电话：王13044138637</p>",
+        "dateAdded": {
+            "day": 1,
+            "month": 1,
+            "year": 2015
+        },
+        "compound": "",
+        "floor": "第层",
+        "buildingType": "新式里弄"
+    },
+    {
+        "id": 33,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 34,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 35,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 36,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 37,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/a4baa71e-31df-4269-9063-8351fd6f4d7b.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/a4baa71e-31df-4269-9063-8351fd6f4d7b.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/32e2fae6-1558-45ee-82ef-3ecb991ce649.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/76c159bd-4043-4836-ba0e-f6f65952f64d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/0c776a47-aead-464b-84dd-7de0fa6b123d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/80bd0c99-c790-4fc2-9613-24c5ed7c223d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/4dc19e7e-7efe-4629-8423-ea21b0e6c36c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/4a0c26ae-4a92-4ae0-9146-bf3bb142bbc4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/25142157-a696-48c8-ac99-a4f00c8e04a9.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/d604aeec-c278-4c70-be06-08fc71353e32.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/88e24d08-effa-4684-837f-9005a5926293.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/5729de53-3670-48fe-bc5e-a4f1d6d60855.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/e79a592e-7ba9-4295-8547-056ee6a9dc28.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/98933756-b513-4ef1-b9e7-b9782933a49a.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/b9aa340f-a688-4b71-8cfc-ae1dddaf589d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/5d326230-5c5e-4614-bfb3-daca8483124e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/a4baa71e-31df-4269-9063-8351fd6f4d7b.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/32e2fae6-1558-45ee-82ef-3ecb991ce649.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/76c159bd-4043-4836-ba0e-f6f65952f64d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/0c776a47-aead-464b-84dd-7de0fa6b123d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/80bd0c99-c790-4fc2-9613-24c5ed7c223d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/4dc19e7e-7efe-4629-8423-ea21b0e6c36c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/4a0c26ae-4a92-4ae0-9146-bf3bb142bbc4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/25142157-a696-48c8-ac99-a4f00c8e04a9.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/d604aeec-c278-4c70-be06-08fc71353e32.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/88e24d08-effa-4684-837f-9005a5926293.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/5729de53-3670-48fe-bc5e-a4f1d6d60855.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/e79a592e-7ba9-4295-8547-056ee6a9dc28.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/98933756-b513-4ef1-b9e7-b9782933a49a.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/b9aa340f-a688-4b71-8cfc-ae1dddaf589d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/5d326230-5c5e-4614-bfb3-daca8483124e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-28/a4baa71e-31df-4269-9063-8351fd6f4d7b.jpg"
+        ],
+        "rent": "25000元 / 月",
+        "agent": {
+            "name": "王先生",
+            "phone": "13524725790",
+            "type": "agent"
+        },
+        "address": "常熟路228弄2号101",
+        "district": "徐汇-法租界",
+        "city": "上海市",
+        "sqm": "130平米",
+        "beds": "2",
+        "baths": "2",
+        "description": "<p>常熟路228弄2号101，130平方，两房两厅两卫，花园30平安风格，墙暖，接受轻办公，价格25000元全包全佣，看房联系，王先生：13524725790，提前一小时预约。<br><br></p>",
+        "dateAdded": {
+            "day": 1,
+            "month": 1,
+            "year": 2015
+        },
+        "compound": "",
+        "floor": "第1层",
+        "buildingType": "新式里弄"
+    },
+    {
+        "id": 38,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 39,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 40,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 40,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 41,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/a8818182-2ce5-4776-a27a-dbd48f90651a.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/a8818182-2ce5-4776-a27a-dbd48f90651a.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/258ce966-8a2b-4461-bb51-805424412d33.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/118b9f20-62c0-402d-826b-4022289ceed7.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/e8a22ac5-613c-4edc-8bf1-f8aa19284147.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/988d6152-c5df-40a2-90a9-8170aab8137d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/221df2d4-c14d-458c-971d-fdb8e0c37835.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/0cb4758c-29ef-45df-923c-0681c056b579.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/a8818182-2ce5-4776-a27a-dbd48f90651a.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/258ce966-8a2b-4461-bb51-805424412d33.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/118b9f20-62c0-402d-826b-4022289ceed7.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/e8a22ac5-613c-4edc-8bf1-f8aa19284147.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/988d6152-c5df-40a2-90a9-8170aab8137d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/221df2d4-c14d-458c-971d-fdb8e0c37835.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/0cb4758c-29ef-45df-923c-0681c056b579.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/a8818182-2ce5-4776-a27a-dbd48f90651a.jpg"
+        ],
+        "rent": "11800元 / 月",
+        "agent": {
+            "name": "方先生",
+            "phone": "17091837557",
+            "type": "agent"
+        },
+        "address": "茂名南路136号136",
+        "district": "徐汇-法租界",
+        "city": "上海市",
+        "sqm": "90平米",
+        "beds": "2",
+        "baths": "1",
+        "description": "<p>茂名南路136号504室，1+1房，90平方，带3平米阳台，价格11800元全佣，看房联系，方先生17091837557钥匙放在南昌路312号上源房产<br><br></p>",
+        "dateAdded": {
+            "day": 1,
+            "month": 1,
+            "year": 2015
+        },
+        "compound": "",
+        "floor": "第5层",
+        "buildingType": "老公房"
+    },
+    {
+        "id": 42,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/fc618463-288e-45d3-a108-910ec6012323.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/fc0d85ee-39d9-44d6-9b2c-f23526b313ce.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/cb12b544-8398-4339-81f4-e9aac1299a9b.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/66864bcd-9624-4cff-b15b-58d66cecc563.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/918ab2be-316d-4e65-b3c4-04eb32995018.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/9cc09378-6123-4d2f-b8c1-c224cf0512f2.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/b8270c82-d3c5-45be-b8c9-4ea219e6a6b4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/f87dcf09-0e1c-48d0-ba2f-cd02cb3f4e08.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/d87109e2-4f14-4e92-a161-90101db23555.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/b4eb0442-291f-45c3-94f6-af9dc0f1d7f2.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/591d1479-5169-438f-bd1f-130deabf2c83.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/b12b713d-bf1b-4f2b-84e2-3ab31159463d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/6f6da6ad-f312-484a-ba72-13ba1d557db1.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/787015e3-70b7-4443-a541-35c86b8f2760.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/fc618463-288e-45d3-a108-910ec6012323.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/fc0d85ee-39d9-44d6-9b2c-f23526b313ce.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/cb12b544-8398-4339-81f4-e9aac1299a9b.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/66864bcd-9624-4cff-b15b-58d66cecc563.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/918ab2be-316d-4e65-b3c4-04eb32995018.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/9cc09378-6123-4d2f-b8c1-c224cf0512f2.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/b8270c82-d3c5-45be-b8c9-4ea219e6a6b4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/f87dcf09-0e1c-48d0-ba2f-cd02cb3f4e08.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/d87109e2-4f14-4e92-a161-90101db23555.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/b4eb0442-291f-45c3-94f6-af9dc0f1d7f2.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/591d1479-5169-438f-bd1f-130deabf2c83.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/b12b713d-bf1b-4f2b-84e2-3ab31159463d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/6f6da6ad-f312-484a-ba72-13ba1d557db1.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/787015e3-70b7-4443-a541-35c86b8f2760.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-10-09/fc618463-288e-45d3-a108-910ec6012323.jpg"
+        ],
+        "rent": "20000元 / 月",
+        "agent": {
+            "name": "李先生",
+            "phone": "13917789590",
+            "type": "agent"
+        },
+        "address": "永嘉路500弄2号3楼",
+        "district": "徐汇-法租界",
+        "city": "上海市",
+        "sqm": "120平米",
+        "beds": "2",
+        "baths": "1",
+        "description": "<p>永嘉路500弄2号3楼，近岳阳路，面积120平方，2+1房2厅1卫、1阳台8平方，出租20000元全包，看房子请联系李先生：13917789590，（中介费全佣）现在客人住在里面，客户租期到10月底、看中客人可以提前搬走、一般看房下午方便，看房提前一天预约。 <br></p>",
+        "dateAdded": {
+            "day": 15,
+            "month": 8,
+            "year": 2017
+        },
+        "compound": "思齐新邨",
+        "floor": "第3层",
+        "buildingType": "老公寓"
+    },
+    {
+        "id": 43,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 44,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 45,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 46,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/0ed8721c-482e-4906-82b3-2c464f8e1e11.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/0ed8721c-482e-4906-82b3-2c464f8e1e11.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/7c4f34d4-0402-49dd-9265-600aa558636f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/9c9f4d14-ca3a-47ba-b26d-08e42b7b013d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/ec2c0e2a-bfca-4fd3-9ddc-1c00aa7428d6.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/39eb3bbf-6f21-49e4-bea1-2ae601e21183.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/12b84878-c21a-4fcc-b5fc-d8720bfdbc1d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/d42fa741-8e25-4846-915c-caa436d5755d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/2d2d248d-9ac7-4d1a-bbb0-a1ada5f8df88.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/0ed8721c-482e-4906-82b3-2c464f8e1e11.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/7c4f34d4-0402-49dd-9265-600aa558636f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/9c9f4d14-ca3a-47ba-b26d-08e42b7b013d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/ec2c0e2a-bfca-4fd3-9ddc-1c00aa7428d6.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/39eb3bbf-6f21-49e4-bea1-2ae601e21183.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/12b84878-c21a-4fcc-b5fc-d8720bfdbc1d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/d42fa741-8e25-4846-915c-caa436d5755d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/2d2d248d-9ac7-4d1a-bbb0-a1ada5f8df88.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/0ed8721c-482e-4906-82b3-2c464f8e1e11.jpg"
+        ],
+        "rent": "12500元 / 月",
+        "agent": {
+            "name": "徐先生 ",
+            "phone": " 13764703357",
+            "type": "agent"
+        },
+        "address": "陕西南路271弄36号402室",
+        "district": "徐汇-法租界",
+        "city": "上海市",
+        "sqm": "100平米",
+        "beds": "2",
+        "baths": "1",
+        "description": "<p>陕西南路271弄36-402近绍兴路，两房两厅一卫100平方，双阳台有浴缸，价格12500全包全佣，看房联系，徐先生 13764703357<br><br></p>",
+        "dateAdded": {
+            "day": 1,
+            "month": 1,
+            "year": 2015
+        },
+        "compound": "",
+        "floor": "第4层",
+        "buildingType": "老公房"
+    },
+    {
+        "id": 47,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/0f9025ce-362b-406d-a063-55307eb98a4e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/0f9025ce-362b-406d-a063-55307eb98a4e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/e639dba4-0e27-45af-ba52-13d0d515c938.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/3a8c968f-4d64-46bc-a803-696877297f2f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/3fdc3fe0-7d24-4b53-a403-2effde2a6296.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/982dd285-cafd-4df5-8cd3-88b9c32db086.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/7a4eed3f-5678-492c-9f44-99dde10f44d4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/d29d285a-52cc-4a60-8f51-a93dc281c38f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/e2f8345a-349c-4c06-845d-722b1cb949e1.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/21e5a151-f144-45fa-b5b8-17e071353172.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/cd79c9c4-c1c7-4ec2-ae64-859bddb697c2.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/0f9025ce-362b-406d-a063-55307eb98a4e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/e639dba4-0e27-45af-ba52-13d0d515c938.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/3a8c968f-4d64-46bc-a803-696877297f2f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/3fdc3fe0-7d24-4b53-a403-2effde2a6296.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/982dd285-cafd-4df5-8cd3-88b9c32db086.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/7a4eed3f-5678-492c-9f44-99dde10f44d4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/d29d285a-52cc-4a60-8f51-a93dc281c38f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/e2f8345a-349c-4c06-845d-722b1cb949e1.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/21e5a151-f144-45fa-b5b8-17e071353172.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/cd79c9c4-c1c7-4ec2-ae64-859bddb697c2.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-29/0f9025ce-362b-406d-a063-55307eb98a4e.jpg"
+        ],
+        "rent": "19500元 / 月",
+        "agent": {
+            "name": "Ava Yu",
+            "phone": "18621597410",
+            "type": "agent"
+        },
+        "address": "康定路378弄6楼",
+        "district": "静安",
+        "city": "上海市",
+        "sqm": "120平米",
+        "beds": "0",
+        "baths": "0",
+        "description": "<p>独家代理房源，康定路378弄近陕西南路6楼顶楼复式，现代简约装修风格，中央空调。注：6楼无电梯，无室外空间现在已经空出，看房最好是工作日17:00-19:00 以及周末下午，请提前预约。尽量短信联系。19500可以包发票和物业，70佣，21000全佣 18621597410 Ava Yu<br><br></p>",
+        "dateAdded": {
+            "day": 1,
+            "month": 1,
+            "year": 2015
+        },
+        "compound": "",
+        "floor": "第6层",
+        "buildingType": "老公房"
+    },
+    {
+        "id": 48,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/d1a55f97-4515-4c32-a0ee-097ff00c4349.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/d1a55f97-4515-4c32-a0ee-097ff00c4349.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/4ff36c85-94ae-4406-9312-f5410d369bef.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/025bc7bc-54e8-4b51-a971-a717c9fe80be.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/2af12939-c972-4f63-a299-488ca9602c0b.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/41af1a98-b936-4818-81e4-887e115999c2.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/effc75dd-3707-4abf-80ed-cb129215e295.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/da062b71-3151-43b1-adf6-23df3a0d017a.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/7e8a4bc9-28aa-438c-b7c6-f656a848a7c2.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/99be5fd5-2c9c-4bfc-ba3d-a1845f64a4df.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/d1a55f97-4515-4c32-a0ee-097ff00c4349.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/4ff36c85-94ae-4406-9312-f5410d369bef.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/025bc7bc-54e8-4b51-a971-a717c9fe80be.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/2af12939-c972-4f63-a299-488ca9602c0b.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/41af1a98-b936-4818-81e4-887e115999c2.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/effc75dd-3707-4abf-80ed-cb129215e295.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/da062b71-3151-43b1-adf6-23df3a0d017a.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/7e8a4bc9-28aa-438c-b7c6-f656a848a7c2.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/99be5fd5-2c9c-4bfc-ba3d-a1845f64a4df.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-24/d1a55f97-4515-4c32-a0ee-097ff00c4349.jpg"
+        ],
+        "rent": "24000元 / 月",
+        "agent": {
+            "name": "郑先生",
+            "phone": "13817434438 ",
+            "type": "agent"
+        },
+        "address": "淮海中路584弄9号",
+        "district": "徐汇-法租界",
+        "city": "上海市",
+        "sqm": "140平米",
+        "beds": "2",
+        "baths": "2",
+        "description": "<p>花园洋房、2房2厅2卫，140平方，共用花园100平方、独用15平，全新装修,,烤箱,墙暖，博世烘干洗衣机及博世冰箱，卫星电视、无线宽带。居家、工作室均可（现做高级服装定制工作室）。现已空出 现可提前半天预约看房，报价24K包物业、发票、全佣，看房请联系：13817434438 郑先生</p>",
+        "dateAdded": {
+            "day": 1,
+            "month": 1,
+            "year": 2015
+        },
+        "compound": "",
+        "floor": "第层",
+        "buildingType": "老洋房"
+    },
+    {
+        "id": 49,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/4014cad4-5bbf-4554-a7f5-f84fb78790dd.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/4014cad4-5bbf-4554-a7f5-f84fb78790dd.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/3d72d08d-8128-4de1-8220-8a90d9acbffc.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/33ed8ad3-c1b5-4ebe-b1dd-4006e54d874c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/30fde808-66f1-4a40-b6a2-fca44bfc99e6.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/fccc6870-62a2-40fa-bbd2-06e1bdc8ba66.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/093ac5c8-98ed-4ba1-90f7-d658f86a9499.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/495472f3-f1a7-4593-a06d-fa1ccd1cabd7.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/df25ce4e-d682-4486-8acd-643765c200f7.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/cb19c935-c7fc-4cb0-bd5d-f6faaab9f792.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/02be75f4-9bd9-42ab-9c9c-7eff1663e1d1.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/caabffe6-2a3e-4bdc-9459-fe719bdef503.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/cecad820-d1be-489e-ac66-9e78cf792d9b.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/4014cad4-5bbf-4554-a7f5-f84fb78790dd.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/3d72d08d-8128-4de1-8220-8a90d9acbffc.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/33ed8ad3-c1b5-4ebe-b1dd-4006e54d874c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/30fde808-66f1-4a40-b6a2-fca44bfc99e6.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/fccc6870-62a2-40fa-bbd2-06e1bdc8ba66.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/093ac5c8-98ed-4ba1-90f7-d658f86a9499.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/495472f3-f1a7-4593-a06d-fa1ccd1cabd7.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/df25ce4e-d682-4486-8acd-643765c200f7.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/cb19c935-c7fc-4cb0-bd5d-f6faaab9f792.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/02be75f4-9bd9-42ab-9c9c-7eff1663e1d1.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/caabffe6-2a3e-4bdc-9459-fe719bdef503.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/cecad820-d1be-489e-ac66-9e78cf792d9b.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/4014cad4-5bbf-4554-a7f5-f84fb78790dd.jpg"
+        ],
+        "rent": "13000元 / 月",
+        "agent": {
+            "name": "李先生",
+            "phone": "13917789590",
+            "type": "agent"
+        },
+        "address": "武康路280弄48号3楼",
+        "district": "徐汇-法租界",
+        "city": "上海市",
+        "sqm": "75平米",
+        "beds": "1",
+        "baths": "1",
+        "description": "<p>地址：武康路280弄48号3楼，近湖南路、面积75平方、1房2厅1卫1阳台、出租价13000元全包，全屋地暖、家具、家电全配，现在里面还有租客，租期到6月22号，现在可以提前预约看房提前一天约、看房联系：李13917789590（中介费全佣）。<br><br></p>",
+        "dateAdded": {
+            "day": 15,
+            "month": 8,
+            "year": 2017
+        },
+        "compound": "",
+        "floor": "第3层",
+        "buildingType": "老公房"
+    },
+    {
+        "id": 49,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/4014cad4-5bbf-4554-a7f5-f84fb78790dd.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/4014cad4-5bbf-4554-a7f5-f84fb78790dd.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/3d72d08d-8128-4de1-8220-8a90d9acbffc.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/33ed8ad3-c1b5-4ebe-b1dd-4006e54d874c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/30fde808-66f1-4a40-b6a2-fca44bfc99e6.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/fccc6870-62a2-40fa-bbd2-06e1bdc8ba66.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/093ac5c8-98ed-4ba1-90f7-d658f86a9499.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/495472f3-f1a7-4593-a06d-fa1ccd1cabd7.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/df25ce4e-d682-4486-8acd-643765c200f7.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/cb19c935-c7fc-4cb0-bd5d-f6faaab9f792.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/02be75f4-9bd9-42ab-9c9c-7eff1663e1d1.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/caabffe6-2a3e-4bdc-9459-fe719bdef503.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/cecad820-d1be-489e-ac66-9e78cf792d9b.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/4014cad4-5bbf-4554-a7f5-f84fb78790dd.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/3d72d08d-8128-4de1-8220-8a90d9acbffc.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/33ed8ad3-c1b5-4ebe-b1dd-4006e54d874c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/30fde808-66f1-4a40-b6a2-fca44bfc99e6.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/fccc6870-62a2-40fa-bbd2-06e1bdc8ba66.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/093ac5c8-98ed-4ba1-90f7-d658f86a9499.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/495472f3-f1a7-4593-a06d-fa1ccd1cabd7.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/df25ce4e-d682-4486-8acd-643765c200f7.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/cb19c935-c7fc-4cb0-bd5d-f6faaab9f792.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/02be75f4-9bd9-42ab-9c9c-7eff1663e1d1.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/caabffe6-2a3e-4bdc-9459-fe719bdef503.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/cecad820-d1be-489e-ac66-9e78cf792d9b.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/4014cad4-5bbf-4554-a7f5-f84fb78790dd.jpg"
+        ],
+        "rent": "13000元 / 月",
+        "agent": {
+            "name": "李先生",
+            "phone": "13917789590",
+            "type": "agent"
+        },
+        "address": "武康路280弄48号3楼",
+        "district": "徐汇-法租界",
+        "city": "上海市",
+        "sqm": "75平米",
+        "beds": "1",
+        "baths": "1",
+        "description": "<p>地址：武康路280弄48号3楼，近湖南路、面积75平方、1房2厅1卫1阳台、出租价13000元全包，全屋地暖、家具、家电全配，现在里面还有租客，租期到6月22号，现在可以提前预约看房提前一天约、看房联系：李13917789590（中介费全佣）。<br><br></p>",
+        "dateAdded": {
+            "day": 15,
+            "month": 8,
+            "year": 2017
+        },
+        "compound": "",
+        "floor": "第3层",
+        "buildingType": "老公房"
+    },
+    {
+        "id": 50,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 51,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/eeb89f36-2bf0-4f66-a5e3-dccbe6524aa5.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/eeb89f36-2bf0-4f66-a5e3-dccbe6524aa5.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/7847de45-b7e5-46e7-8cdf-77cfbedc4b54.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/535e736c-751a-455d-b071-5303169032d9.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/ea80ee55-00df-4751-9189-735461042eb7.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/2b753c04-0f15-40d8-ae23-a380e321a8c0.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/091b02a7-49ce-4176-8115-5c87ece1783a.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/698f656e-fbaa-4423-ae86-4efa3e2490f7.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/01813a8d-834b-4cc0-beb5-314663d8fda2.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/611f08ff-8a60-42dd-9b61-704745c421b8.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/9c34f8e9-0cec-4b05-9b5f-346afb7abdc4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/458ed2dc-c78a-431c-b7a5-d9bd654ed06d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/eeb89f36-2bf0-4f66-a5e3-dccbe6524aa5.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/7847de45-b7e5-46e7-8cdf-77cfbedc4b54.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/535e736c-751a-455d-b071-5303169032d9.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/ea80ee55-00df-4751-9189-735461042eb7.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/2b753c04-0f15-40d8-ae23-a380e321a8c0.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/091b02a7-49ce-4176-8115-5c87ece1783a.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/698f656e-fbaa-4423-ae86-4efa3e2490f7.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/01813a8d-834b-4cc0-beb5-314663d8fda2.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/611f08ff-8a60-42dd-9b61-704745c421b8.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/9c34f8e9-0cec-4b05-9b5f-346afb7abdc4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/458ed2dc-c78a-431c-b7a5-d9bd654ed06d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-05-31/eeb89f36-2bf0-4f66-a5e3-dccbe6524aa5.jpg"
+        ],
+        "rent": "16000元 / 月",
+        "agent": {
+            "name": "毛小姐",
+            "phone": "18816691302",
+            "type": "agent"
+        },
+        "address": "兴国路157弄301",
+        "district": "全部地区",
+        "city": "上海市",
+        "sqm": "75平米",
+        "beds": "2",
+        "baths": "1",
+        "description": "<p>兴国路157弄301，近湖南路，75平方1加1房，全屋地暖。价格16000元全包全佣，看房联系：毛小姐 18816691302<br><br></p>",
+        "dateAdded": {
+            "day": 1,
+            "month": 1,
+            "year": 2015
+        },
+        "compound": "",
+        "floor": "第3层",
+        "buildingType": "老公房"
+    },
+    {
+        "id": 52,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 53,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/7212cab0-a3b0-4c37-9764-b39ab61df5ce.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/da0cbd9d-9679-4f0d-95c4-b62c2068d401.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/ec0764b3-7ca5-426f-956f-ab059d351275.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/85130110-ce5a-4235-85ff-e799186a2a03.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/233c2bfe-fdc8-428c-8779-c0c621461a6d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/7dffc00f-9462-45a0-bbb4-a65b1b2c32f3.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/6481ac08-761f-4d5f-9e56-36cf25d7174e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/4046c499-209b-4574-bd86-f304b615a9a6.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/7212cab0-a3b0-4c37-9764-b39ab61df5ce.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/da0cbd9d-9679-4f0d-95c4-b62c2068d401.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/ec0764b3-7ca5-426f-956f-ab059d351275.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/85130110-ce5a-4235-85ff-e799186a2a03.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/233c2bfe-fdc8-428c-8779-c0c621461a6d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/7dffc00f-9462-45a0-bbb4-a65b1b2c32f3.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/6481ac08-761f-4d5f-9e56-36cf25d7174e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/4046c499-209b-4574-bd86-f304b615a9a6.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/7212cab0-a3b0-4c37-9764-b39ab61df5ce.jpg"
+        ],
+        "rent": "13000元 / 月",
+        "agent": {
+            "name": "王先生",
+            "phone": "18701818126",
+            "type": "agent"
+        },
+        "address": "愚园路1088弄123号2楼",
+        "district": "长宁",
+        "city": "上海市",
+        "sqm": "45平米",
+        "beds": "2",
+        "baths": "1",
+        "description": "<p>愚园路1088弄123号2楼，宏业花园，愚园路近江苏路。45平方1+1房一厅一卫，价格13000全包全佣，看房联系：王先生 18701818126<br><br></p>",
+        "dateAdded": {
+            "day": 1,
+            "month": 1,
+            "year": 2015
+        },
+        "compound": "",
+        "floor": "第2层",
+        "buildingType": "老公房"
+    },
+    {
+        "id": 54,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/5637a116-e0ad-46ef-80e7-fb190c6d51ca.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/5637a116-e0ad-46ef-80e7-fb190c6d51ca.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/02a66770-0432-453c-a89d-f0e88b6229f7.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/73408311-0f9c-4e55-ab4a-40b62f2f23e7.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/182be544-7545-4431-b6ee-b356b81f9c04.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/35eba498-491e-40ef-8c63-ea904d243bf4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/da549171-a80c-4310-8e20-3b0e91e3857d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/68c78908-048f-41ae-aae7-54593ef452e0.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/0797da77-d2e4-46bc-95ee-a3e94acb0c3d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/d39b64ae-7771-4a06-9def-f24fba303876.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/c3a94172-8b8c-42c3-a4e2-d7ce1d1efb94.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/5637a116-e0ad-46ef-80e7-fb190c6d51ca.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/02a66770-0432-453c-a89d-f0e88b6229f7.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/73408311-0f9c-4e55-ab4a-40b62f2f23e7.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/182be544-7545-4431-b6ee-b356b81f9c04.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/35eba498-491e-40ef-8c63-ea904d243bf4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/da549171-a80c-4310-8e20-3b0e91e3857d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/68c78908-048f-41ae-aae7-54593ef452e0.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/0797da77-d2e4-46bc-95ee-a3e94acb0c3d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/d39b64ae-7771-4a06-9def-f24fba303876.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/c3a94172-8b8c-42c3-a4e2-d7ce1d1efb94.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-07-15/5637a116-e0ad-46ef-80e7-fb190c6d51ca.jpg"
+        ],
+        "rent": "22000元 / 月",
+        "agent": {
+            "name": "张先生",
+            "phone": "13917526276",
+            "type": "agent"
+        },
+        "address": "湖南路287弄3号2楼",
+        "district": "徐汇-法租界",
+        "city": "上海市",
+        "sqm": "150平米",
+        "beds": "2",
+        "baths": "2",
+        "description": "<p>湖南路287弄3号2楼，150平米两房两厅两卫，阳台10平方，全屋墙暖，价格22000全包全佣，看房联系：张先生 13917526276，钥匙放在永福路256号乾门<br><br></p>",
+        "dateAdded": {
+            "day": 1,
+            "month": 1,
+            "year": 2015
+        },
+        "compound": "",
+        "floor": "第2层",
+        "buildingType": "老公房"
+    },
+    {
+        "id": 55,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/2615ba71-cb86-4016-91a4-056f3264fb23.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/2615ba71-cb86-4016-91a4-056f3264fb23.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/46da7ed7-4bb8-4597-8731-460a2ccb7b22.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/e8a63172-9e06-4874-96ff-6bf09372a13f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/c1847323-a71a-4363-9a79-e1947d147607.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/42bf5ea1-5370-4d82-98c5-35ff96a643ab.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/2615ba71-cb86-4016-91a4-056f3264fb23.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/46da7ed7-4bb8-4597-8731-460a2ccb7b22.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/e8a63172-9e06-4874-96ff-6bf09372a13f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/c1847323-a71a-4363-9a79-e1947d147607.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/42bf5ea1-5370-4d82-98c5-35ff96a643ab.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-02/2615ba71-cb86-4016-91a4-056f3264fb23.jpg"
+        ],
+        "rent": "7300元 / 月",
+        "agent": {
+            "name": "王先生",
+            "phone": "18701818126",
+            "type": "agent"
+        },
+        "address": "巨鹿路741号741",
+        "district": "静安",
+        "city": "上海市",
+        "sqm": "35平米",
+        "beds": "1",
+        "baths": "1",
+        "description": "<p>巨鹿路741号6楼59室，无电梯，一室户35平方带5平方书房，价格7300全包全佣，看房联系：王先生18701818126<br><br></p>",
+        "dateAdded": {
+            "day": 1,
+            "month": 1,
+            "year": 2015
+        },
+        "compound": "",
+        "floor": "第6层",
+        "buildingType": "老公房"
+    },
+    {
+        "id": 56,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/3760bad8-37cb-4bdc-8742-018e4c6eafb9.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/3760bad8-37cb-4bdc-8742-018e4c6eafb9.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/2abcc166-1d43-4dbc-8389-e3338009a355.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/ee54c83f-3d1a-4b6f-8ac8-31fa4055a536.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/45c6aaa7-3bcd-437d-9a8e-8e8efe162aff.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/ab34fbae-38a0-4b7a-962e-341346aaea94.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/83b94ef0-8fd6-4451-863f-5bdee5bf0a01.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/3df242ac-9dd3-4cdd-960d-af25284794fa.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/653d25d7-3e0c-46c5-b36c-493989670803.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/2cc29fb9-a77a-42ad-8ad8-87fcbbcbcc36.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/dff5c430-428e-4ef8-b163-beff5e0a374b.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/259e2ba9-7c8f-422e-9fc6-3249fbd162d5.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/38550d30-2455-4dea-88e2-4598580cce93.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/8c61cd71-817f-4e0c-bdb0-174430754959.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/07919609-6db2-42a5-b0d1-4ace5bee71f3.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/9c1d9542-ac99-4093-9951-7d34baaf17f8.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/7d0d8b58-0008-4202-a43f-385d3cedb4dc.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/3760bad8-37cb-4bdc-8742-018e4c6eafb9.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/2abcc166-1d43-4dbc-8389-e3338009a355.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/ee54c83f-3d1a-4b6f-8ac8-31fa4055a536.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/45c6aaa7-3bcd-437d-9a8e-8e8efe162aff.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/ab34fbae-38a0-4b7a-962e-341346aaea94.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/83b94ef0-8fd6-4451-863f-5bdee5bf0a01.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/3df242ac-9dd3-4cdd-960d-af25284794fa.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/653d25d7-3e0c-46c5-b36c-493989670803.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/2cc29fb9-a77a-42ad-8ad8-87fcbbcbcc36.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/dff5c430-428e-4ef8-b163-beff5e0a374b.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/259e2ba9-7c8f-422e-9fc6-3249fbd162d5.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/38550d30-2455-4dea-88e2-4598580cce93.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/8c61cd71-817f-4e0c-bdb0-174430754959.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/07919609-6db2-42a5-b0d1-4ace5bee71f3.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/9c1d9542-ac99-4093-9951-7d34baaf17f8.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/7d0d8b58-0008-4202-a43f-385d3cedb4dc.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-03/3760bad8-37cb-4bdc-8742-018e4c6eafb9.jpg"
+        ],
+        "rent": "30000元 / 月",
+        "agent": {
+            "name": "毛小姐",
+            "phone": "18816691302",
+            "type": "agent"
+        },
+        "address": "乌鲁木齐南路298号北楼298",
+        "district": "徐汇-法租界",
+        "city": "上海市",
+        "sqm": "132平米",
+        "beds": "3",
+        "baths": "2",
+        "description": "<p>乌鲁木齐南路298号睿园北楼3B，132平米，三房两厅两卫，开放厨房，全屋地暖。7/9号线步行5分钟、1号线衡山路站步行十分钟。价格30000全包全佣，看房联系：毛小姐18816691302<br><br></p>",
+        "dateAdded": {
+            "day": 1,
+            "month": 1,
+            "year": 2015
+        },
+        "compound": "睿园",
+        "floor": "第3层",
+        "buildingType": "新公寓"
+    },
+    {
+        "id": 57,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/9086a6ee-a373-4ff6-9c24-c86cf2f29378.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/9086a6ee-a373-4ff6-9c24-c86cf2f29378.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/dae3eed3-127e-4d1c-88f2-ca9c97c4db7a.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/9c0fa6f1-e1df-4560-bd51-4fd42791e0c4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/a71fcc8b-5eca-4c5a-8a9e-06d96e72135c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/147d88e5-29b8-4121-9b26-54711c37d3b0.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/43a148eb-fd92-4615-9299-73795686e6eb.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/e798d919-d7f1-4803-9013-452e2b5b4bfd.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/54409bde-b71e-4dc7-bae5-02b0ff613bac.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/d1e6409e-59b5-4b95-a3e0-d130feee2e41.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/31585531-fe59-4bf5-a22c-e8c59b15cb8c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/9086a6ee-a373-4ff6-9c24-c86cf2f29378.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/dae3eed3-127e-4d1c-88f2-ca9c97c4db7a.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/9c0fa6f1-e1df-4560-bd51-4fd42791e0c4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/a71fcc8b-5eca-4c5a-8a9e-06d96e72135c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/147d88e5-29b8-4121-9b26-54711c37d3b0.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/43a148eb-fd92-4615-9299-73795686e6eb.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/e798d919-d7f1-4803-9013-452e2b5b4bfd.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/54409bde-b71e-4dc7-bae5-02b0ff613bac.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/d1e6409e-59b5-4b95-a3e0-d130feee2e41.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/31585531-fe59-4bf5-a22c-e8c59b15cb8c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/9086a6ee-a373-4ff6-9c24-c86cf2f29378.jpg"
+        ],
+        "rent": "43000元 / 月",
+        "agent": {
+            "name": "",
+            "phone": "13761113839",
+            "type": "agent"
+        },
+        "address": "吴兴路256弄6号整栋",
+        "district": "徐汇-法租界",
+        "city": "上海市",
+        "sqm": "180平米",
+        "beds": "3",
+        "baths": "3",
+        "description": "<p>吴兴路256弄6号 ，整栋新里洋房出租，￥43000/月，押二付三，全佣，吴兴路近建国西路（与肇嘉浜路中间），3房2厅3卫 带露台，约180平方，看房预约电话13761113839</p>",
+        "dateAdded": {
+            "day": 1,
+            "month": 1,
+            "year": 2015
+        },
+        "compound": "",
+        "floor": "第层",
+        "buildingType": "新式里弄"
+    },
+    {
+        "id": 58,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/39c03ee2-7898-479c-89b7-853be21607ff.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/39c03ee2-7898-479c-89b7-853be21607ff.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/846c68bd-082d-42b8-9f31-e8de60c3901e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/6e35e1e8-fd3a-41c6-adf0-59b0631c0362.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/6cc7a9c7-dc14-4aab-a7fc-70e5e0a0e068.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/9c9d9ffd-b544-4542-b082-99abd5ab2c90.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/de2330d8-e4bd-4caa-9cf6-72c12a41651e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/78082281-5176-4ca2-9634-b3b193d962eb.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/0f78f9b4-c447-4419-b4c4-cad4a6c07383.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/affe6a19-6c83-4ea4-a06c-c78b02b3b846.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/455187aa-19ed-45f3-8b90-62a7eb30554c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/a9fe7a46-8806-4fb1-9fea-a188bd1867f8.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/81598e76-57ac-44b5-a1a1-5f8d26c31d11.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/39c03ee2-7898-479c-89b7-853be21607ff.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/846c68bd-082d-42b8-9f31-e8de60c3901e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/6e35e1e8-fd3a-41c6-adf0-59b0631c0362.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/6cc7a9c7-dc14-4aab-a7fc-70e5e0a0e068.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/9c9d9ffd-b544-4542-b082-99abd5ab2c90.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/de2330d8-e4bd-4caa-9cf6-72c12a41651e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/78082281-5176-4ca2-9634-b3b193d962eb.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/0f78f9b4-c447-4419-b4c4-cad4a6c07383.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/affe6a19-6c83-4ea4-a06c-c78b02b3b846.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/455187aa-19ed-45f3-8b90-62a7eb30554c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/a9fe7a46-8806-4fb1-9fea-a188bd1867f8.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/81598e76-57ac-44b5-a1a1-5f8d26c31d11.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/39c03ee2-7898-479c-89b7-853be21607ff.jpg"
+        ],
+        "rent": "22000元 / 月",
+        "agent": {
+            "name": "王先生",
+            "phone": "13044138637",
+            "type": "agent"
+        },
+        "address": "淮海中路1402弄2号2楼",
+        "district": "徐汇-法租界",
+        "city": "上海市",
+        "sqm": "130平米",
+        "beds": "2",
+        "baths": "2",
+        "description": "<p>淮海中路1402弄2号2楼，130平方两房两厅两卫，带15平米露台，全屋墙暖，错层式，适合居家及办公，价格22000全包全佣，看房联系：王先生130-4413-8637，提前一天约，8月23号到期</p>",
+        "dateAdded": {
+            "day": 26,
+            "month": 7,
+            "year": 2017
+        },
+        "compound": "",
+        "floor": "第2层",
+        "buildingType": "老公房"
+    },
+    {
+        "id": 59,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/25c2ed8d-5f0e-438c-bb61-8451bde2bc0e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/25c2ed8d-5f0e-438c-bb61-8451bde2bc0e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/cf27dd30-f94f-4694-b11a-381f2029208f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/24b6ed4d-e781-4f76-8630-94c5b796657d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/c68c6e47-e939-41d7-abaf-3d3ed4fb2d98.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/25043258-6a06-4289-ba92-18d74233d889.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/a9eaeded-9165-4007-adbd-bedd9ce0dffb.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/72473985-cd93-4f4d-a885-6c49c667411e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/abc3f65a-7174-4e85-952a-f4b258eb0fa5.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/bce09de3-f609-4c3e-93ea-d6a2f8b69857.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/25c2ed8d-5f0e-438c-bb61-8451bde2bc0e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/cf27dd30-f94f-4694-b11a-381f2029208f.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/24b6ed4d-e781-4f76-8630-94c5b796657d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/c68c6e47-e939-41d7-abaf-3d3ed4fb2d98.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/25043258-6a06-4289-ba92-18d74233d889.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/a9eaeded-9165-4007-adbd-bedd9ce0dffb.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/72473985-cd93-4f4d-a885-6c49c667411e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/abc3f65a-7174-4e85-952a-f4b258eb0fa5.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/bce09de3-f609-4c3e-93ea-d6a2f8b69857.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/25c2ed8d-5f0e-438c-bb61-8451bde2bc0e.jpg"
+        ],
+        "rent": "18000元 / 月",
+        "agent": {
+            "name": "杨先生",
+            "phone": "136-5173-1599",
+            "type": "agent"
+        },
+        "address": "绍兴路52弄2楼",
+        "district": "黄浦",
+        "city": "上海市",
+        "sqm": "120平米",
+        "beds": "2",
+        "baths": "2",
+        "description": "<p>绍兴路52弄2楼，120平方，两房两厅两卫，带阳台，墙暖和浴缸，价格18000元全包全佣，看房联系：杨先生136-5173-1599<br><br></p>",
+        "dateAdded": {
+            "day": 1,
+            "month": 1,
+            "year": 2015
+        },
+        "compound": "",
+        "floor": "第2层",
+        "buildingType": "老公房"
+    },
+    {
+        "id": 60,
+        "images": [],
+        "rent": "0元/月",
+        "agent": {
+            "name": "",
+            "phone": "",
+            "type": "agent"
+        },
+        "address": "",
+        "district": "",
+        "city": "上海市",
+        "sqm": 0,
+        "beds": 0,
+        "baths": 0,
+        "description": "",
+        "dateAdded": {
+            "day": 0,
+            "month": 0,
+            "year": 0
+        },
+        "compound": "",
+        "floor": "",
+        "buildingType": ""
+    },
+    {
+        "id": 61,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/5c7fb4c1-6a5d-4398-a003-2f477c118dbe.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/5c7fb4c1-6a5d-4398-a003-2f477c118dbe.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/6d85803d-f466-41b5-92ee-88b8b3face8a.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/a2b02b4c-6fce-4eeb-9686-91bcf023fd38.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/c8271a9b-f9f4-4927-a717-139e64c7e2fb.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/6ea3f10c-34fb-49ed-a498-b88265477678.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/075db046-05bb-47f8-b946-28926fe8478d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/6d5728b0-49d8-403f-9ffb-aff59887693c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/1690c2d7-7ba8-42e7-b864-daedf5c3140e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/5d0068b7-fc58-4eaa-ba27-0c3fcbc4ebe4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/5c7fb4c1-6a5d-4398-a003-2f477c118dbe.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/6d85803d-f466-41b5-92ee-88b8b3face8a.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/a2b02b4c-6fce-4eeb-9686-91bcf023fd38.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/c8271a9b-f9f4-4927-a717-139e64c7e2fb.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/6ea3f10c-34fb-49ed-a498-b88265477678.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/075db046-05bb-47f8-b946-28926fe8478d.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/6d5728b0-49d8-403f-9ffb-aff59887693c.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/1690c2d7-7ba8-42e7-b864-daedf5c3140e.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/5d0068b7-fc58-4eaa-ba27-0c3fcbc4ebe4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-04/5c7fb4c1-6a5d-4398-a003-2f477c118dbe.jpg"
+        ],
+        "rent": "24000元 / 月",
+        "agent": {
+            "name": "季先生",
+            "phone": "15000999423",
+            "type": "agent"
+        },
+        "address": "安亭路81弄8号2楼",
+        "district": "徐汇-法租界",
+        "city": "上海市",
+        "sqm": "150平米",
+        "beds": "2",
+        "baths": "2",
+        "description": "<p>安亭路81弄8号2楼，花园洋房，150平方两房两厅两卫，有墙暖，浴缸，大露台，价格24000全包全佣，看房联系：季先生15000999423（座机不予接听）</p>",
+        "dateAdded": {
+            "day": 1,
+            "month": 1,
+            "year": 2015
+        },
+        "compound": "",
+        "floor": "第2层",
+        "buildingType": "老洋房"
+    },
+    {
+        "id": 62,
+        "images": [
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/13b526c9-1ba9-4f17-ba7c-5b1cdb6e08bb.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/13b526c9-1ba9-4f17-ba7c-5b1cdb6e08bb.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/a38972a7-83a7-422f-bb68-f4c961b62c86.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/ebf43392-2fc7-44d0-830c-13a9ad317546.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/0f4bd508-7fc5-495f-9551-f9ea919417ce.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/6c601fe5-bea0-474c-916d-293066fbd5b6.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/8f093df7-c3a4-4646-9086-ffdf211fa7ea.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/05b55565-6446-4d3c-ad96-f1eccbae2e50.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/78d88eac-b0bf-4c49-86df-7b00872db954.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/94ffc7ae-c502-4523-a9a4-6205e2bd66d4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/2eaa1dfa-53c2-4625-bfa5-3212c07dc261.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/68bf4202-582f-46f6-a515-409cfa726efc.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/13b526c9-1ba9-4f17-ba7c-5b1cdb6e08bb.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/a38972a7-83a7-422f-bb68-f4c961b62c86.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/ebf43392-2fc7-44d0-830c-13a9ad317546.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/0f4bd508-7fc5-495f-9551-f9ea919417ce.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/6c601fe5-bea0-474c-916d-293066fbd5b6.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/8f093df7-c3a4-4646-9086-ffdf211fa7ea.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/05b55565-6446-4d3c-ad96-f1eccbae2e50.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/78d88eac-b0bf-4c49-86df-7b00872db954.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/94ffc7ae-c502-4523-a9a4-6205e2bd66d4.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/2eaa1dfa-53c2-4625-bfa5-3212c07dc261.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/68bf4202-582f-46f6-a515-409cfa726efc.jpg",
+            "http://jiazaishanghai.com/UpLoads/2015-06-05/13b526c9-1ba9-4f17-ba7c-5b1cdb6e08bb.jpg"
+        ],
+        "rent": "16000元 / 月",
+        "agent": {
+            "name": "李先生",
+            "phone": "13512179141",
+            "type": "agent"
+        },
+        "address": "幸福路300弄1606",
+        "district": "长宁",
+        "city": "上海市",
+        "sqm": "100平米",
+        "beds": "2",
+        "baths": "1",
+        "description": "<p>平武小区，处于湖南路华山路华山绿地，十号线交大五分钟，二号线江苏路十分钟，1606，二房二厅一大卫生间，面积一百平，黑白色调风格，二卧朝南，满眼绿色，大厅朝南，满室阳光，价格16000全包全佣（15000不包发票全佣），看房联系：李先生 13512179141<br><br></p>",
+        "dateAdded": {
+            "day": 1,
+            "month": 1,
+            "year": 2015
+        },
+        "compound": "平武小区",
+        "floor": "第16层",
+        "buildingType": "老公寓"
+    }]

@@ -9,8 +9,10 @@ const rl = readline.createInterface({
 
 var scrapeDatPage = function(id, endId) {
     return new Promise(function(resolve, reject){
-        const horseman = new Horseman({injectJquery: true});
-        var houseDataModel = {
+        const horseman = new Horseman({
+            injectJquery: true
+        });
+        const houseDataModel = {
             id: id,
             images: [],
             rent: 0, // yuan per month
@@ -37,11 +39,10 @@ var scrapeDatPage = function(id, endId) {
         }   
 
         horseman
+            .wait(5000)
             .open('http://jiazaishanghai.com/house_detail.html?id=' + id)
-            .then(function() {
-                console.log("scraping data for listing number " + id)
-            })                       
-            .evaluate(function () {                 
+            
+            .evaluate(function () {          
                 var image_urls = new Array;
                 var images = document.getElementsByTagName("img");
                 for(q = 0; q < images.length; q++){
@@ -50,10 +51,23 @@ var scrapeDatPage = function(id, endId) {
                     }
                 }
                 return image_urls;  
-            })    
+            })                
             .then(function(image_urls){
                 houseDataModel.images = image_urls
-            })   
+            })        
+            .then(function() {
+                console.log('-------------------------------')
+                console.log("scraping data for listing number " + id)
+            })    
+            .text('.wydz')
+            .then((text) => {
+                if(text){
+                    console.log(`address: ${text}, this is a live listing`);                    
+                } else {
+                    console.log("this is an empty listing")
+                }
+            })      
+                        
             .html(".wydz") // pulling address
             .then(function (address){
                 houseDataModel.address = address
@@ -63,8 +77,6 @@ var scrapeDatPage = function(id, endId) {
             .then(function (rent){
                 houseDataModel.rent = rent
             })
-
-            // pulling from main info section
 
             .html(".xiaoqu_mingxi") // pulling district
             .then(function (html){
@@ -99,8 +111,6 @@ var scrapeDatPage = function(id, endId) {
                 }                 
             })
             
-            // end main info section
-
             .html(".xiangqing") // pulling description
             .then(function (html){
                 houseDataModel.description = html
@@ -156,9 +166,12 @@ var scrapeDatPage = function(id, endId) {
             })                 
             .then(function(){
                 resolve(houseDataModel);                
-            })             
+            })    
+            .close()
+            .wait(2000)         
             .then(function() {
-                horseman.close();
+                console.log(`finished scraping listing ${id}`)
+                console.log('-------------------------------')
                 stepToNextListing(id, endId);
             })    
     })
@@ -168,13 +181,15 @@ var scrapeDatPage = function(id, endId) {
 var stepToNextListing = function(id, endId) {
     if(parseInt(id) < parseInt(endId)){
         fs.appendFile('output.json' , ',', function(err) {
-            console.log('appended contents to output.json');
-        });    
-        console.log('finished scraping listing ' + id)
-        
-        // Step to next listing
-        scrapeDatPage(parseInt(id) + 1, parseInt(endId))
+            console.log(' ')
+            console.log('moving to next listing');
+            console.log(' ')
 
+            // Step to next listing
+            scrapeDatPage(parseInt(id) + 1, parseInt(endId))
+        });    
+    
+    // Finish web scrape
     } else {
         fs.appendFile('output.json', ']', function(err) {
             console.log('DONE WITH PAGE SCRAPE');
@@ -183,14 +198,13 @@ var stepToNextListing = function(id, endId) {
 }
 
 var fullSiteScrape = function(startId, endId) {
-    if (fs.existsSync('output.json')){
-        fs.unlink('output.json');
+    if (!fs.existsSync('output.json')){
         fs.writeFile('output.json', '[', function(err){
             console.log('BEGINNING PAGE SCRAPE')
         });
     }
 
-    scrapeDatPage(parseInt(startId), endId);
+    scrapeDatPage(parseInt(startId), parseInt(endId));
 }
 
 // User input
