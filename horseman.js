@@ -10,7 +10,8 @@ const rl = readline.createInterface({
 var scrapeDatPage = function(id, endId) {
     return new Promise(function(resolve, reject){
         const horseman = new Horseman({
-            injectJquery: true
+            injectJquery: true,
+            loadImages: false
         });
         const houseDataModel = {
             id: id,
@@ -40,13 +41,31 @@ var scrapeDatPage = function(id, endId) {
 
         horseman
             .wait(5000)
-            .open('http://jiazaishanghai.com/house_detail.html?id=' + id)
-            
+            .open('http://jzsh.qianmen.co/house_detail.html?id=' + id)
+            .wait(5000)
+            .status() //error checking
+            .then(function (statusCode) {
+              if (Number(statusCode) >= 400) {
+                console.log('Page failed with status: ' + statusCode);
+                horseman.close()
+                console.log('retrying page scrape for id ' + id);                
+                stepToNextListing(id, endId);
+              } else {
+                console.log('status code returned: ', statusCode);
+              }
+            })
+            .catch(function (err) {
+              console.log('Error: ', err);
+
+              console.log('retrying page scrape for id ' + id);                
+              stepToNextListing(id, endId);              
+            })
+
             .evaluate(function () {          
                 var image_urls = new Array;
                 var images = document.getElementsByTagName("img");
                 for(q = 0; q < images.length; q++){
-                    if(images[q].src.match("http://jiazaishanghai.com/uploads/") || images[q].src.match("http://jiazaishanghai.com/UpLoads/")){
+                    if(images[q].src.match("http://jzsh.qianmen.co/uploads/") || images[q].src.match("http://jzsh.qianmen.co/UpLoads/")){
                         image_urls.push(images[q].src);
                     }
                 }
