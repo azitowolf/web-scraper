@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@google-cloud/translate": "^1.0.0",
     "cheerio": "^1.0.0-rc.1",
     "js-crawler": "^0.3.19",
     "node-horseman": "^3.3.0",

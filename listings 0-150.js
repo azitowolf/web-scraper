@@ -63,7 +63,7 @@
         "floor": "第/3层",
         "buildingType": "别墅"
     }
-]{
+,{
     "id": 64,
     "images": [],
     "rent": "0元/月",
@@ -1329,7 +1329,7 @@
     "compound": "",
     "floor": "",
     "buildingType": ""
-}，{
+},{
 "id": 101,
 "images": [],
 "rent": "0元/月",
