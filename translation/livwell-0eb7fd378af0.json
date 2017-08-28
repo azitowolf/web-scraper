@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "livwell-177808",
+  "private_key_id": "0eb7fd378af04de06d111662a86382162094fc74",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCnMzSjqy8jRXyM\nCE3qZd9ho2aer757/eUw25Va40p9DT3JSn0gMcYBS2qIofWMX6UWm1HLtdGKqRXs\nqMY1JKaEHPbQqhLrzbcRJEdHQjCmXMzBCE5qOSHvTSti5g6UzVWJYq2zguwQbbAS\n+Xc3PD8FKYV9sLtKvHKcfi7FEu9OWZ39zht4gfUS35q9pXNerRGMDOD87uXkK2Ui\nDGjNPw4LOShzFDLNrnSPufcJNdLn9vbuYBpeOXopxLC4ohw0lV71IC2ww73/xhAE\nElq3SmQUFlWdormMlyIbQOBqjTAzu+fMLfy74ojaPdau0hWJXesTngrVmhUtFexk\nTE5yEVNvAgMBAAECggEAANpL7+4v2pinXazEjwwmcBagtTPpVuXOygQFuHqTMLNX\nQvWGy4k3iUfvxVoN7oRdZwadBgdbo9rEhBi16TQ2ifn+iQkTRxAzi2bbmDRroJ6f\nXi/gdlRbAMxeaY9Xoixtp31DPSJUsSP5jGlP3JPtwTiotRYSEkmziT31VLbMmDWK\nYN+tDJ/6QOOV0PGnDStOMcBo/t0N7khF/nKYGcQxRo/+vmb6WghQS1u7PjrLGxNM\nBBw6yQsr9B0LxraCEmir3FbhN+a4HMtyDXNoUX1FEW/+rFOFAJblhYNMZb/5bJWP\nX8GwGgznqCZb4/IfGBlv1KOLvDuNn/fJ7bu5c4ot3QKBgQDb00azGxXlFCoyrv7L\nRBl9eXlhAi2ZLHDWsb8ZjzkIjn0gDt89J8XrYjB6Q3QVfP84ZM8lTCQEGX/FVF/e\n6FbBgmCRX9qMsTlARFIRzjmcc5Q+qM65UXl+5p/RbroxD7/0G5ZCAdn7cNT050ZW\n/mnCDUseRyxnISDqmKIwdhpvjQKBgQDCtvM6YRCLixQbT0/UDC7/eVQ9JtLfofoM\nnNdJq9uyfU9Jmz/0QhQ+Gkk9Mp9dx01bdIxkTXEwvvcyVyuTmAi6R056EUEYow5v\ndLR9cC7F63QRjH+7NvsNia8hVCclztRW2ae0qqSw5tvBbWy+dPfX+qnRq0u0pAZW\nB5r1AUrh6wKBgQCHgBMLYf28CBL+zOmXx/Fia5dLGbmbuk4PuN7P1X3VbWdpdGFc\n5ABW2F6DbsLGYBc93r3lAqsMr98Xdqvlzhd0DnaSBaDEqpVcrQBdo13Vt1TAzvMm\nPjeC5ovK39L7XPb4dGzJYTTJjcJm94xfIVF1YRZVoo+XPk946/7FmncvHQKBgQCf\n+t0AvDtxy4VrotB98ryynqc9zyY3I8hkkIC6QP+zOQ3p9iqnr5seI07Ff1A9JsFC\nQRIQXyh+2ogTzlc5XxLcqjWqSX7olSAJJyQcZA2qA/hLatqPoW7IArXndlLr13HT\nIeWOpR3HUwZ/eD5+hXAU/hiE8m6zLokeKgWBA9zYnQKBgE76bwAI93FapQpTmp7d\n7AAokVxFrM/tz4izhWdeTiptUmO0e6I9EfK7q1FJAEJ2u9853SK3kRt+lQURWj8s\nz04g8qPVJsT4IQZLGW8bADkP4rHOBysZlrQbm520h+Shi6tg6AFBAbv5QuZWyF6F\nzL4cUtakjr9jtzlZMtLx9JwV\n-----END PRIVATE KEY-----\n",
+  "client_email": "azitowolf@livwell-177808.iam.gserviceaccount.com",
+  "client_id": "112063187534939320230",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/azitowolf%40livwell-177808.iam.gserviceaccount.com"
+}
