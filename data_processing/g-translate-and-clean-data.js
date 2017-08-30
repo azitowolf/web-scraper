@@ -3,7 +3,7 @@ const Translate = require('@google-cloud/translate');
 const fs = require('fs');
 const _ = require('underscore');
 
-const Listings = require('../original_data/listings_0-1000.json')
+const Listings = require('../original_data/listings_3000-6200.json')
 
 // Your Google Cloud Platform project ID + opts
 const projectId = 'livwell-177808';
@@ -15,16 +15,8 @@ const options = {
   to: 'en'
 };
 
-// The text to translate
-const text = Listings[0].description;
-
 // All translated descriptions
 var processedListings = [];
-
-// Remove all empty listings
-let removeEmptyListings = _.filter(Listings, function(listing) {
-  return listing.address;
-})
 
 processListing = function(counter) {
   counter ++;
@@ -39,12 +31,14 @@ processListing = function(counter) {
     .replace(/<\/?[^>]+(>|$)/g, "")
     .replace(/\d{10,12}/g, "********"); 
 
+    console.log("sending req to api");
     translateClient.translate([
       listing.address, 
       listing.description,
       listing.district,
       listing.buildingType], options)    
     .then((results) => {
+      console.log("response recieved")
 
       // Listing translation assignment
       const buildingTypeTranslation = results[0][3];
@@ -102,6 +96,12 @@ processListing = function(counter) {
     fs.writeFile("output.json", JSON.stringify(processedListings))
   }
 }
+
+// Remove all empty listings
+let removeEmptyListings = _.filter(Listings, function(listing) {
+  return listing.address;
+})
+console.log("cleared empty listings, " + removeEmptyListings.length + " listings to translate");
 
 var counter = -1;
 processListing(counter);
