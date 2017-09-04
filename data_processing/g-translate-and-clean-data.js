@@ -3,12 +3,13 @@ const Translate = require('@google-cloud/translate');
 const fs = require('fs');
 const _ = require('underscore');
 
-const Listings = require('../original_data/listings_3000-6200.json')
+const Listings = require('../original_data/listings_13000-17000.json')
 
 // Your Google Cloud Platform project ID + opts
 const projectId = 'livwell-177808';
 const translateClient = Translate({
-  projectId: projectId
+  projectId: projectId,
+  keyFilename: '/Users/Alex/Documents/Development/APIs-and-keys/google-translate-api/livwell-0eb7fd378af0.json'
 });
 const options = {
   from: 'zh-CN',
@@ -85,7 +86,9 @@ processListing = function(counter) {
           listing.images[i] = url.replace("http://jzsh.qianmen.co", "http://jiazaishanghai.com");
       })
 
-      processedListings.push(listing);
+      fs.appendFile("output.json", JSON.stringify(listing), function(){
+        fs.appendFile("output.json", ",");
+      });
       processListing(counter);
     })
     .catch((err) => {
@@ -93,7 +96,7 @@ processListing = function(counter) {
     });
   } else {
     console.log("done, writing listings to output.json");
-    fs.writeFile("output.json", JSON.stringify(processedListings))
+    fs.appendFile("output.json", "]")
   }
 }
 
@@ -104,4 +107,5 @@ let removeEmptyListings = _.filter(Listings, function(listing) {
 console.log("cleared empty listings, " + removeEmptyListings.length + " listings to translate");
 
 var counter = -1;
+fs.writeFile("output.json", "[");
 processListing(counter);
