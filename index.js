@@ -41,7 +41,7 @@ var scrapeDatPage = function(id, endId) {
 
         horseman
             .wait(5000)
-            .open('http://jzsh.qianmen.co/house_detail.html?id=' + id)
+            .open('http://jiazaishanghai.com/house_detail.html?id=' + id)
             .wait(5000)
             .status() //error checking
             .then(function (statusCode) {
