@@ -237,24 +237,6 @@ rl.question('Starting Id ', (answer) => {
     });
 });
 
-// USE FOR LISTING SKIPPING IF NEEDED 
-
-// .then(function(){ // return if this is an empty listing
-//     if(houseDataModel.address === "") {
-//         console.log("found empty listing");
-//         houseDataModel = {
-//             id:id,
-//             emptyListing: true                        
-//         }
-//         resolve(houseDataModel); 
-//         fs.appendFile('output.json', JSON.stringify(houseDataModel), function() {
-//             console.log('appended contents to output.json');
-//         });                         
-//         horseman.close();
-//         return stepToNextListing(id, endId);
-//     }
-// })   
-
 
 
 

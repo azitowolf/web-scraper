@@ -3,7 +3,7 @@ const Translate = require('@google-cloud/translate');
 const fs = require('fs');
 const _ = require('underscore');
 
-const Listings = require('../original_data/listings_13000-17000.json')
+const Listings = require('../original_data/listings_17000-20000.json')
 
 // Your Google Cloud Platform project ID + opts
 const projectId = 'livwell-177808';
@@ -29,8 +29,10 @@ processListing = function(counter) {
 
     //Clean description before making req
     listing.description = listing.description
-    .replace(/<\/?[^>]+(>|$)/g, "")
-    .replace(/\d{10,12}/g, "********"); 
+      .replace(/<\/?[^>]+(>|$)/g, "")
+      .replace(/(\\n)/g, "")
+      .replace(/(\&nbsp;|\& nbsp;)/g, "")
+      .replace(/\d{10,12}/g, "********"); 
 
     console.log("sending req to api");
     translateClient.translate([
