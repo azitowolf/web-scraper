@@ -1,4 +1,4 @@
-let listingData = require('../listings_0-20000_final.json');
+let listingData = require('../listings_0-20000.json');
 const fs = require('fs');
 const _ = require('underscore');
 
@@ -61,7 +61,9 @@ let newLD = listingData.map(listing => {
      
 })
 
-fs.writeFile('output.json', JSON.stringify(newLD), function(err){
+let uniq = _.uniq(newLD);
+
+fs.writeFile('output.json', JSON.stringify(uniq), function(err){
     console.log('writing to output json')
 });
 
