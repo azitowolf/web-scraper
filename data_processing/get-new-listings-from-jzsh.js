@@ -131,7 +131,7 @@ var updateListingAvailability = function(mongoID) {
 
             const options = {
                 method: 'POST',
-                uri: "http://localhost:3000/api/update/" + mongoID + "?available=true"
+                uri: "http://localhost:8080/api/update/" + mongoID
             };
             
             rp(options)
